@@ -1,0 +1,23 @@
+{
+    "format_version": 1,
+    "header":
+    {
+        "description": "Amatista es un add-on que agrega armas y armaduras.",
+        "name": "Amatista",
+        "uuid": "e981c179-89d3-4de5-b036-27f4774729a9",
+        "version": [0,0,1]
+    },
+    "modules":
+    [{
+        "description": "Amatista es un add-on que agrega armas y armaduras.",
+        "type": "resources",
+        "uuid": "f332c8ab-fe31-4bd6-bfe1-48f460b5aad1",
+        "version": [0,0,1]
+    }],
+    "dependencies":
+    [{
+        "uuid": "879b727e-a612-4d1c-b37e-33e1fa37d873",
+        "version": [0,0,1]
+    }]
+
+}
